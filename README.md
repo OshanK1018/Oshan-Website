@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is a simple ToDo list that allows you to check off what's completed and delete them once you're done for the day!
 
 <!--
 **OshanK1018/OshanK1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
